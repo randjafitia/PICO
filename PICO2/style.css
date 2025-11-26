@@ -1,0 +1,81 @@
+.container{
+    margin-left: 2%;
+    max-width: 100%;
+    margin-right: 2%;
+}
+li{
+    margin-left: 200px;
+}
+u{
+    text-decoration-thickness: 12%;
+    text-decoration-color:rgb(255, 152, 18) ;
+}
+p{
+    font-size: small;
+}
+h1{
+    color: rgb(67, 95, 248);
+}
+h2{
+    font-size: medium;
+    color: rgb(255, 152, 18);
+}
+button{
+    background-color: rgb(255, 152, 18);
+    border-color:rgb(255, 152, 18) ;
+    height: 50px;
+    width: auto;
+}
+.container #first .first{
+    margin-left: 10%;
+}
+.container #second .gridphoto img{
+    height: 250px;
+}
+.container #second .button{
+    margin-top: 10%;
+}
+.container #first .first ul li a{
+    color: rgb(255, 152, 18);
+}
+.container #first .gridfirst img{
+    height: 250px;
+    width: 380px;
+}
+.container #first .gridsecond{
+    background-color: rgb(233, 236, 238);
+    height: 458px;
+    margin-top: 5%;
+}
+.container #first .gridsecond .femme img{
+    height: 446px;
+    max-width: 100%;
+}
+.container #first .gridsecond button{
+    margin-left: 70%;
+}
+.container #second{
+    text-align: center;
+}
+.container #second .gridphoto{
+    margin-top: 10%;
+}
+.container #second .gridphoto img{
+    width: 99%;
+}
+.container #third .gridthird article img{
+    height: 200px;
+    width: 500px;
+}
+.container #third{
+    text-align: center;
+}
+.container #fourth .gridfourth{
+    max-width: 90%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+.container #third a{
+    color: rgb(255, 152, 18);
+    text-decoration: none;
+}
